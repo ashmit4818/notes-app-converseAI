@@ -46,7 +46,7 @@ It allows users to create, save, and delete personal notes — all without a bac
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/notes-app-converseAI.git
+git clone https://github.com/ashmit4818/notes-app-converseAI.git
 cd notes-app
 
 # 2. Install dependencies
@@ -70,8 +70,8 @@ http://localhost:5173
 
 ## 🔗 Deployment
 
-- **GitHub Repo:** [your-link-here]
-- **Live Demo:** [your-vercel-or-netlify-link-here]
+- **GitHub Repo:** [[https://github.com/ashmit4818/notes-app-converseAI](https://github.com/ashmit4818/notes-app-converseAI)]
+- **Live Demo:** [[https://notes-app-converse-ai.vercel.app/](https://notes-app-converse-ai.vercel.app/)]
 
 
 ---
